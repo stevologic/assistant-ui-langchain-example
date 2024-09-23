@@ -1,3 +1,7 @@
+# assistant-ui-langchain-example
+This is an example of using assistant-ui with langchainjs libraries.
+
+
 This is the [assistant-ui](https://github.com/Yonom/assistant-ui) starter project.
 
 ## Getting Started
